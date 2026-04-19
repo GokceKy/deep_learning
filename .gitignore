@@ -3,3 +3,4 @@ odev1/cifar-10-batches-py
 /breast-cancer/processed
 /breast-cancer/outputs
 /breast-cancer/predicted_masks
+/breast-cancer/cls_outputs
