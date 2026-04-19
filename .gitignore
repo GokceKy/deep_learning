@@ -1,3 +1,5 @@
 odev1/cifar-10-batches-py
 /breast-cancer/Dataset_BUSI_with_GT
 /breast-cancer/processed
+/breast-cancer/outputs
+/breast-cancer/predicted_masks
