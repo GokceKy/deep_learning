@@ -5,3 +5,5 @@ odev1/cifar-10-batches-py
 /breast-cancer/predicted_masks
 /breast-cancer/cls_outputs
 /breast-cancer/vit_outputs
+basketball_yolo_ball_tracking/
+/deep_learning/basketball_yolo_ball_tracking
