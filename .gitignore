@@ -1,9 +1,11 @@
 odev1/cifar-10-batches-py
 /breast-cancer/Dataset_BUSI_with_GT
 /breast-cancer/processed
-/breast-cancer/outputs
+/breast-cancer/outputs/best_unet_resnet34.pth
 /breast-cancer/predicted_masks
-/breast-cancer/cls_outputs
-/breast-cancer/vit_outputs
+/breast-cancer/cls_outputs/best_resnet34.pth
+/breast-cancer/cls_outputs/resnet34_full_images.pth
+/breast-cancer/vit_outputs/vit_full_images.pth
+/breast-cancer/vit_outputs/vit_roi_images.pth
 basketball_yolo_ball_tracking/
 /deep_learning/basketball_yolo_ball_tracking
